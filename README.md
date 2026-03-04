@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christian Tewa
+# 👋 Hi, I'm Christian TEWA
 
 > **"Build things people can see, use, and judge."**  
 > A portfolio speaks louder than a list of skills. Every pipeline, every warehouse, every automated job — that's what makes you visible.
@@ -37,7 +37,7 @@
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
 | **Data Engineering** | ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=flat&logo=python&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Cloud AWS** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white) ![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat&logo=amazonaws&logoColor=white) |
+| **Cloud AWS** | ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white) ![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat&logo=amazonaws&logoColor=white) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
 | **Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white) |
 
@@ -50,7 +50,7 @@ Actively preparing for the **AWS Certified Data Engineer – Associate** exam. H
 - **S3** — storage, lifecycle policies, partitioning strategies
 - **Glue** — ETL jobs, crawlers, Data Catalog
 - **IAM** — roles, policies, least privilege principle
-- **RDS, Redshift, Athena** — coming next
+- **Redshift** — coming next
 
 ### 🏦 Banking Transactions Data Warehouse
 Full data warehouse simulating real banking scenarios with intentional data quality issues — built as a portfolio centerpiece for alternance applications in French banks.
@@ -90,4 +90,4 @@ Designed a student-teacher appointment web application — HTML, CSS, JavaScript
 
 ---
 
-*🏦 Open to a 24-month Data Engineering alternance starting September 2026 — particularly in banking & financial services (BNP Paribas, Société Générale, Crédit Agricole...).*
+*🏦 Open to a 24-month Data Engineering alternance starting September 2026.*
